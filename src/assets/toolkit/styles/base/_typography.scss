@@ -1,0 +1,11 @@
+h1 {
+  @include font-size(xxl);
+}
+
+h2 {
+  @include font-size(l);
+}
+
+h3 {
+  @include font-size(base);
+}

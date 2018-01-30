@@ -1,0 +1,11 @@
+colors:
+  base:
+    White: "#ffffff"
+    X-Light Gray: "#f2f4ff"
+    Light Gray: "#E5E8F0"
+    Gray: "#9195a0"
+    Dark Gray: "#3a3a3a"
+    Black: "#212121"
+  main:
+    Primary - Blue: "#6e90f1"
+    Secondary - Red: "#ed6675"
